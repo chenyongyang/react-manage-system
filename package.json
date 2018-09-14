@@ -6,6 +6,7 @@
     "repository": "git@github.com:chenyongyang/react-manage-system.git",
     "author": "szchenyongyang@163.com",
     "license": "MIT",
+    "homepage": "./",
     "scripts": {
         "dev": "webpack-dev-server --open",
         "build": "webpack -p"

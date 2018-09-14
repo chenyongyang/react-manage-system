@@ -5,8 +5,8 @@ const webpack = require('webpack');
 module.exports = {
     entry: './src/app.jsx',
     output: {
-        path: path.resolve(__dirname, 'docs'),
-        publicPath: '/docs/',
+        path: path.resolve(__dirname, 'dist'),
+        publicPath: '/dist/',
         filename: 'js/app.js'
     },
     resolve: {
